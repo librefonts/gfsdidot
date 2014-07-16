@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="GFSDidotBold.ttf.GlyphOrder.ttx"/>
+  <head src="GFSDidotBold.ttf._h_e_a_d.ttx"/>
+  <hhea src="GFSDidotBold.ttf._h_h_e_a.ttx"/>
+  <maxp src="GFSDidotBold.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="GFSDidotBold.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="GFSDidotBold.ttf._h_m_t_x.ttx"/>
+  <LTSH src="GFSDidotBold.ttf.L_T_S_H_.ttx"/>
+  <VDMX src="GFSDidotBold.ttf.V_D_M_X_.ttx"/>
+  <hdmx src="GFSDidotBold.ttf._h_d_m_x.ttx"/>
+  <cmap src="GFSDidotBold.ttf._c_m_a_p.ttx"/>
+  <fpgm src="GFSDidotBold.ttf._f_p_g_m.ttx"/>
+  <prep src="GFSDidotBold.ttf._p_r_e_p.ttx"/>
+  <cvt src="GFSDidotBold.ttf._c_v_t.ttx"/>
+  <loca src="GFSDidotBold.ttf._l_o_c_a.ttx"/>
+  <glyf src="GFSDidotBold.ttf._g_l_y_f.ttx"/>
+  <kern src="GFSDidotBold.ttf._k_e_r_n.ttx"/>
+  <name src="GFSDidotBold.ttf._n_a_m_e.ttx"/>
+  <post src="GFSDidotBold.ttf._p_o_s_t.ttx"/>
+  <gasp src="GFSDidotBold.ttf._g_a_s_p.ttx"/>
+  <GPOS src="GFSDidotBold.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="GFSDidotBold.ttf.G_S_U_B_.ttx"/>
+</ttFont>
