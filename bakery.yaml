@@ -1,0 +1,7 @@
+commit: HEAD
+process_files: [GFSDidot-Regular.ttf.ttx, src/GFSDidot.otf.ttx, src/GFSDidotBold.otf.ttx,
+  src/GFSDidotItalic.ttf.ttx, src/GFSDidotBoldItalic.otf.ttx, src/GFSDidot.ttf.ttx,
+  src/GFSDidotItalic.otf.ttx, src/GFSDidotBold.ttf.ttx, src/GFSDidotBoldItalic.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
